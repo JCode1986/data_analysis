@@ -23,16 +23,27 @@
     * When a bike station is modified, is it more likely that it’ll lose bikes or gain bikes? How do you know?
     * Come up with 3 more questions that can be answered with this data set.
 
+    ## 12-17-2019
+    * Select a Kaggle data set that is suitable for Linear Regression
+    * Load the data you receive into a Pandas DataFrame
+    * Show the first five rows of the data set
+    * Show the description and the info of the data set
+    * Ensure that any date columns have been cast into a datetime object in your DataFrame
+    * Using a regression model, split your data into train and test data
+    * Fit your training split to the regression model
+    * Draw at least three conclusions from your regression model
+
 ## Getting Started
 * run `pipenv shell`
 * run `jupyter lab`
 * web browser - `http://localhost:8890/lab`
 
 ## Architecture
-`Jupyter Notebook`
-`Pandas`
-`Numpy`
+* `Jupyter Notebook`
+* `Pandas`
+* `Numpy`
+* `matplotlib`
 
 ## Change Log
-12-16-2019 10:00pm - Initial commit.
-12-16-2019 11:27pm - Still need some work on `vg-stats`
+* 12-16-2019 10:00pm - Initial commit.
+* 12-16-2019 11:27pm - Still need some work on `vg-stats`
