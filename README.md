@@ -33,6 +33,15 @@
     * Fit your training split to the regression model
     * Draw at least three conclusions from your regression model
 
+    ## 12-18-2019
+    * Select 2 Kaggle data sets that is suitable.
+    * Optionally use dataset built into Seaborn
+    * Load the data you receive into a Pandas DataFrame
+    * Show the first five rows of the data set
+    * Show the description and the info of the data set
+    * Visualize your dataset to demonstrate insights into the data
+    * Verbalize your insights at bottom of notebook
+
 ## Getting Started
 * run `pipenv shell`
 * run `jupyter lab`
