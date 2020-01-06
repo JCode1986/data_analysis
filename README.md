@@ -56,3 +56,5 @@
 ## Change Log
 * 12-16-2019 10:00pm - Initial commit.
 * 12-16-2019 11:27pm - Still need some work on `vg-stats`
+* 01-05-2020 11:00pm - Fixed variable names in `vg-stats`
+* 01-05-2020 11:54pm - Removed `password.ipynb` due to data that were difficult to work with
