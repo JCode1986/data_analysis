@@ -1,7 +1,7 @@
 # Data Analysis
 
 **Author**: Joseph Hangarter
-**Version**: 1.0.2
+**Version**: 1.0.4
 
 ## Overview
 * Utilizing 2 Jupyter Notebooks (`vg-stats` and `bike-stats`), and load data sets to Pandas DataFrame within each respective file.
